@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<personas>
+<persona>
+    <nombre>Pepe</nombre>
+    <apellido1>Suarez</apellido1>
+    <apellido2>Dominguez</apellido2>
+    <edad>41</edad>
+    <tiene-hijos/>
+</persona>
+
+<persona>
+    <nombre>Luisa</nombre>
+    <apellido1>Rodriguez</apellido1>
+    <apellido2>Sanchez</apellido2>
+    <edad>36</edad>
+</persona>
+
+</personas>
