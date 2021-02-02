@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- DTD Externo-->
+<!DOCTYPE mensaje SYSTEM "mensaje.dtd">
+
+<mensaje>
+    <de></de>
+    <para></para>
+    <asunto></asunto>
+    <contenido></contenido>
+    <enviado/>
+</mensaje>

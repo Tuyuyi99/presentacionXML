@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lenguajes>
+
+    <lenguaje>
+        <nombre> Java </nombre>
+        <Autor> Kevin Mitnick </Autor>
+        <contenido>
+            <![CDATA[
+                public class HolaMundo {
+
+                    public static void main(String[] args) {
+                    System.out.println("Hola Mundo");
+                }
+
+            } ]]>
+        </contenido>
+    </lenguaje>
+
+    <lenguaje>
+            <nombre> HTML </nombre>
+            <Autor> Kevin Poulsen </Autor>
+            <contenido>
+                <![CDATA[
+                    <!DOCTYPE html>
+
+                    <html>
+                        <head>
+                        <title>Marca - Diario online lider en información deportiva</title>
+                        </head>
+                        <body>
+                            <h1>Ultimas noticias</h1>
+                            <p>Todo lo que quieras saber de deportes</p>
+                            </body>
+                    </html>
+                    ]]>
+            </contenido>
+    </lenguaje>
+</lenguajes>
+

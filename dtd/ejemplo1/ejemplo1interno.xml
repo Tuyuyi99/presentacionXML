@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- DTD Interno-->
+
+<!DOCTYPE mensaje [
+      <!ELEMENT mensaje (de, para, asunto, contenido, enviado)>
+      <!ELEMENT de (#PCDATA)>
+      <!ELEMENT para (#PCDATA)>
+      <!ELEMENT asunto (#PCDATA)>
+      <!ELEMENT contenido (#PCDATA)>
+      <!ELEMENT enviado EMPTY>
+]>
+<mensaje>
+    <de></de>
+    <para></para>
+    <asunto></asunto>
+    <contenido></contenido>
+    <enviado/>
+</mensaje>

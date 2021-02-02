@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+    <futbol>
+        <equipo>
+            <nombre> Real Madrid Club de Fútbol </nombre>
+            <entrenador> Zinedine Zidane </entrenador>
+            <jugador posicion='Delantero'>
+                <nombre> Eden Hazard </nombre>
+                <nacionalidad>  Belga </nacionalidad>
+            </jugador>
+            <jugador posicion='Defensa'>
+                <nombre> Sergio Ramos </nombre>
+                <nacionalidad>  Española </nacionalidad>
+            </jugador>
+        </equipo>
+        <equipo>
+            <nombre> París Saint-Germain Football Club </nombre>
+            <entrenador> Mauricio Pochettino </entrenador>
+            <jugador posicion='Delantero'>
+                <nombre> Neymar </nombre>
+                <nacionalidad>  Brasileña </nacionalidad>
+            </jugador>
+            <jugador posicion='Centrocampista'>
+                <nombre> Ángel Di María </nombre>
+                <nacionalidad>  Argentina </nacionalidad>
+            </jugador>
+        </equipo>
+    </futbol>

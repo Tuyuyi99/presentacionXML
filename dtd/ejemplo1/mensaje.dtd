@@ -1,0 +1,6 @@
+      <!ELEMENT mensaje (de, para, asunto, contenido, enviado)*>
+      <!ELEMENT de (#PCDATA)>
+      <!ELEMENT para (#PCDATA)>
+      <!ELEMENT asunto (#PCDATA)>
+      <!ELEMENT contenido (#PCDATA)>
+      <!ELEMENT enviado EMPTY>

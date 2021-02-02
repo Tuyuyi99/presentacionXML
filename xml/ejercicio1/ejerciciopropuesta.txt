@@ -1,0 +1,5 @@
+Construir el siguiente documento XML:
+
+Futbol, donde dentro contendrá equipo.
+Equipo a su vez tiene una serie de hijos, los cuales son: Nombre del equipo, entrenador y jugador, con su atributo posición.
+Dentro tendrá el nombre del jugador con su nacionalidad.
