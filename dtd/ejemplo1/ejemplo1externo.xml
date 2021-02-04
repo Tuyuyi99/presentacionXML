@@ -4,9 +4,9 @@
 <!DOCTYPE mensaje SYSTEM "mensaje.dtd">
 
 <mensaje>
-    <de></de>
-    <para></para>
-    <asunto></asunto>
-    <contenido></contenido>
+    <de>Ventoruso</de>
+    <para>Luis</para>
+    <asunto>Entrevista de trabajo</asunto>
+    <contenido>Queria saber si la entrevista del otro dia estuvo bien</contenido>
     <enviado/>
 </mensaje>

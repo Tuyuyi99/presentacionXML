@@ -1,0 +1,6 @@
+Construir el siguiente DTD, el cual su elemento raíz sea calles:
+	direccion(Dentro estarán tipo_via, nombre_via, numero y portal)
+		-tipo_via (puede ser calle o avenida) 
+		-nombre_via, 
+		-numero (opcional)
+		-portal (opcional)

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- DTD Externo-->
+<!DOCTYPE instituto SYSTEM "instituto.dtd">
+
+<instituto nombre="Celia Viñas">
+    <modulos>
+        <modulo id="M1">
+            <nombre>
+                Desarrollo de Aplicaciones Web
+            </nombre>
+        </modulo>
+    </modulos>
+</instituto>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE curriculo SYSTEM "direccion.dtd">
+<calles>
+    <direccion id="D1">
+        <via tipo="calle"/>
+        <nombre_via>Pablo Iglesias</nombre_via>
+        <numero>104</numero>
+    </direccion>
+
+    <direccion id="D2">
+        <via tipo="avenida"/>
+        <nombre_via>Don jose</nombre_via>
+        <portal>32</portal>
+    </direccion>
+</calles>

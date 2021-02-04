@@ -1,0 +1,7 @@
+<!ELEMENT instituto (modulos*)>
+    <!ATTLIST instituto nombre CDATA #IMPLIED>
+    <!ELEMENT modulos (modulo*)>
+        <!ATTLIST modulo id ID #REQUIRED>
+        <!ATTLIST modulo curso (1 | 2) #FIXED "1">
+        <!ELEMENT modulo (nombre?)>
+            <!ELEMENT nombre (#PCDATA)>
