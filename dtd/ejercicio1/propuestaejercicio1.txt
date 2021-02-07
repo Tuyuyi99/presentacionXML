@@ -1,6 +1,4 @@
-Construir el siguiente DTD, el cual su elemento raíz sea calles:
-	direccion(Dentro estarán tipo_via, nombre_via, numero y portal)
-		-tipo_via (puede ser calle o avenida) 
-		-nombre_via, 
-		-numero (opcional)
-		-portal (opcional)
+Construir el siguiente DTD, el cual su elemento raíz sea futbol:
+	-equipo(Dentro estarán nombre del equipo (Aparece una vez), entrenador (Opcional), jugador (Una o mas veces, obligatoriamente))
+		-Como atributo de jugador se encontrará su posición, la cual es obligatoria.
+		-jugador (dentro estará su nombre (Solo una vez) y su nacionalidad (Opcional))

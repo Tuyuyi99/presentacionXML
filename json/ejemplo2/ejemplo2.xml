@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bar>
+    <empleado>
+        <nombre>Pepe</nombre>
+        <puestos>Encargado</puestos>
+        <puestos>Camarero</puestos>
+        <edad>34</edad>
+    </empleado>
+
+    <empleado>
+        <nombre>Jose</nombre>
+        <puestos>Camarero</puestos>
+        <edad>26</edad>
+    </empleado>
+
+    <empleado>
+        <nombre>Felipe</nombre>
+        <puestos>Jefe</puestos>
+        <puestos>Cocinero</puestos>
+        <edad>45</edad>
+    </empleado>
+
+    <empleado>
+        <nombre>Luis</nombre>
+        <puestos>Ayudante de cocina</puestos>
+        <edad>21</edad>
+    </empleado>
+</bar>

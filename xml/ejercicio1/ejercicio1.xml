@@ -4,11 +4,11 @@
             <nombre> Real Madrid Club de Fútbol </nombre>
             <entrenador> Zinedine Zidane </entrenador>
             <jugador posicion='Delantero'>
-                <nombre> Eden Hazard </nombre>
+                <nombreJugador> Eden Hazard </nombreJugador>
                 <nacionalidad>  Belga </nacionalidad>
             </jugador>
             <jugador posicion='Defensa'>
-                <nombre> Sergio Ramos </nombre>
+                <nombreJugador> Sergio Ramos </nombreJugador>
                 <nacionalidad>  Española </nacionalidad>
             </jugador>
         </equipo>
@@ -16,11 +16,11 @@
             <nombre> París Saint-Germain Football Club </nombre>
             <entrenador> Mauricio Pochettino </entrenador>
             <jugador posicion='Delantero'>
-                <nombre> Neymar </nombre>
+                <nombreJugador> Neymar </nombreJugador>
                 <nacionalidad>  Brasileña </nacionalidad>
             </jugador>
             <jugador posicion='Centrocampista'>
-                <nombre> Ángel Di María </nombre>
+                <nombreJugador> Ángel Di María </nombreJugador>
                 <nacionalidad>  Argentina </nacionalidad>
             </jugador>
         </equipo>

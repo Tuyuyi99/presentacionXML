@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mensaje xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:noNamespaceSchemaLocation="mensaje.xsd">
+
+    <de></de>
+    <para></para>
+    <asunto></asunto>
+    <contenido></contenido>
+    <enviado />
+</mensaje>

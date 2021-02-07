@@ -1,8 +1,0 @@
-<!ELEMENT calles (direccion*)>
-    <!ELEMENT direccion (via?, nombre_via*, numero?, portal?)>
-            <!ATTLIST direccion id ID>
-        <!ELEMENT via EMPTY>
-            <!ATTLIST via tipo (calle | avenida) #REQUIRED>
-        <!ELEMENT nombre_via (#PCDATA)>
-        <!ELEMENT numero (#PCDATA)>
-        <!ELEMENT portal (#PCDATA)>

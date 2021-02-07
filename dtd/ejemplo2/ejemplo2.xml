@@ -2,17 +2,17 @@
 <!-- DTD Interno-->
 
 <!DOCTYPE mensaje [
-      <!ELEMENT mensaje (de, para, asunto, contenido, enviado)>
-      <!ELEMENT de (#PCDATA)>
-      <!ELEMENT para (#PCDATA)>
-      <!ELEMENT asunto (#PCDATA)>
-      <!ELEMENT contenido ANY>
-      <!ELEMENT enviado EMPTY>
+    <!ELEMENT mensaje (de, para, asunto, contenido, enviado)>
+    <!ELEMENT de (#PCDATA)>
+    <!ELEMENT para (#PCDATA)>
+    <!ELEMENT asunto (#PCDATA)>
+    <!ELEMENT contenido ANY>
+    <!ELEMENT enviado EMPTY>
 ]>
 <mensaje>
     <de>Pepito</de>
     <para>Jose</para>
     <asunto>Pregunta seria</asunto>
     <contenido>Paso usted por mi casa?</contenido>
-    <enviado/>
+    <enviado />
 </mensaje>

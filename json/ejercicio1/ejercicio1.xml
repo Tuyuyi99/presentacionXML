@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- Pasar el siguiente archivo escrito en XML a JSON-->
+
+<clase>
+    <alumno>
+        <nombre>Antonio</nombre>
+        <apellido>Carmona</apellido>
+        <curso>2º ESO</curso>
+        <edad>14</edad>
+    </alumno>
+
+    <alumno>
+        <nombre>Jesus</nombre>
+        <apellido>Ruiz</apellido>
+        <curso>1º DAW</curso>
+        <edad>24</edad>
+    </alumno>
+</clase>

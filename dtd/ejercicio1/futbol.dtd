@@ -1,0 +1,8 @@
+<!ELEMENT futbol (equipo*)>
+    <!ELEMENT equipo (nombre+, entrenador?, jugador+)>
+        <!ELEMENT nombre (#PCDATA)>
+        <!ELEMENT entrenador (#PCDATA)>
+        <!ATTLIST jugador posicion CDATA #REQUIRED>
+        <!ELEMENT jugador (nombreJugador, nacionalidad?)>
+            <!ELEMENT nombreJugador (#PCDATA)>
+            <!ELEMENT nacionalidad (#PCDATA)>

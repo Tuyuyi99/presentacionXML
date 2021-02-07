@@ -1,0 +1,25 @@
+{
+    "bar":
+    [
+        {
+            "nombre": "Pepe",
+            "puestos": ["Encargado", "Camarero"],
+            "edad": 34
+        },
+        {
+            "nombre": "Jose",
+            "puestos": ["Camarero"],
+            "edad": 26
+        },
+        {
+            "nombre": "Felipe",
+            "puestos": ["Jefe", "Cocinero"],
+            "edad": 45
+        },
+        {
+            "nombre": "Luis",
+            "puestos": ["Ayudante de cocina"],
+            "edad": 21
+        }
+    ]
+}
