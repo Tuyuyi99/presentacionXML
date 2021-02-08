@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+    <xs:complexType name="persona">
+        <xs:sequence>
+            <xs:element name="nombre" type="xs:string"></xs:element>
+            <xs:element name="apellidos" type="xs:string"></xs:element>
+            <xs:element name="genero" type="xs:boolean"></xs:element>
+        </xs:sequence>
+        <xs:attribute name="codigo" type="xs:ID" use="required"/>
+        <xs:attribute name="fecha_nacimiento" type="xs:date" use="optional" fixed="1900-01-01"/>
+    </xs:complexType>
+</xs:schema>

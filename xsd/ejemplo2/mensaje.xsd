@@ -7,7 +7,6 @@
                 <xs:element name="para" type="xs:string" minOccurs="1" maxOccurs="unbounded"/>
                 <xs:element name="asunto" type="xs:string"/>
                 <xs:element name="contenido" type="xs:string"/>
-                <xs:element name="enviado" type="xs:positiveInteger"/>
             </xs:sequence>
         </xs:complexType>
     </xs:element>

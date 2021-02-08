@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<futbol xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:noNamespaceSchemaLocation="futbol.xsd">
+    <equipo>
+        <nombre>Real Madrid Club de Fútbol</nombre>
+        <entrenador>Zinedine Zidane</entrenador>
+        <jugador posicion='Delantero'>
+            <nombreJugador>Eden Hazard</nombreJugador>
+            <nacionalidad>Belga</nacionalidad>
+        </jugador>
+        <jugador posicion='Defensa'>
+            <nombreJugador>Sergio Ramos</nombreJugador>
+            <nacionalidad>Española</nacionalidad>
+        </jugador>
+    </equipo>
+    <equipo>
+        <nombre>París Saint-Germain Football Club </nombre>
+        <entrenador>Mauricio Pochettino</entrenador>
+        <jugador posicion='Delantero'>
+            <nombreJugador>Neymar</nombreJugador>
+            <nacionalidad>Brasileña</nacionalidad>
+        </jugador>
+        <jugador posicion='Centrocampista'>
+            <nombreJugador>Ángel Di María</nombreJugador>
+            <nacionalidad>Argentina</nacionalidad>
+        </jugador>
+    </equipo>
+</futbol>

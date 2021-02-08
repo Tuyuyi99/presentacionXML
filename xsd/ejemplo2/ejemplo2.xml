@@ -6,5 +6,4 @@ xsi:noNamespaceSchemaLocation="mensaje.xsd">
     <para></para>
     <asunto></asunto>
     <contenido></contenido>
-    <enviado />
 </mensaje>

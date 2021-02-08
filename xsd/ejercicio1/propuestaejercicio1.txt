@@ -1,0 +1,4 @@
+Construir el siguiente DTD, el cual su elemento raíz sea futbol:
+	-equipo(Dentro estarán nombre del equipo (Aparece una vez), entrenador (Opcional), jugador (Una o mas veces, obligatoriamente))
+		-Como atributo de jugador se encontrará su posición, la cual es obligatoria.
+		-jugador (dentro estará su nombre (Solo una vez) y su nacionalidad (Opcional))
